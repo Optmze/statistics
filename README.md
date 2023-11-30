@@ -3,5 +3,15 @@ This repository contains my learned reference to applying modern statistical met
 **ms_ch1 = Descriptive Statistics and Analyzing variability** <br>
 **ms_ch2 = Probability Models and Distributions [Theory-oriented]<br>**
 
-My self made notes on further understanding  of advanced statistical methods can be found here: https://docs.google.com/document/d/1dtnvNcdeTeGxM9bdSZMH4E_l80Mw17SI4r8WyPhrHjw/edit?usp=sharing
+Beyond that, my self made notes on further understanding of advanced statistical methods is given below behttps://docs.google.com/document/d/1dtnvNcdeTeGxM9bdSZMH4E_l80Mw17SI4r8WyPhrHjw/edit?usp=sharing
+
+# PART-A: STATISTICAL METHODS
+
+
+
+
+
+
+
+
 
