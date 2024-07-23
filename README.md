@@ -1,8 +1,9 @@
 # Modern Statistics with Python
 This repository contains my learned reference to applying modern statistical methods through python. It contains the following modules: <br>
 
-**ms_ch1 = Descriptive Statistics and Analyzing variability** <br>
-**ms_ch2 = Probability Models and Distributions [Theory-oriented]<br>**
+Current Modules:
+**1. ms_ch1.py = Descriptive Statistics and Analyzing variability** <br>
+**2. ms_ch2.py = Probability Models and Distributions [Theory-oriented]<br>**
 
 More modules after I complete them will be updated!
 
